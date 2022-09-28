@@ -8,7 +8,7 @@ Tetap Crack Walaupun Alot😛😎
  # Support 32/64 bit 
  # PAKE DOANG NGGA FOLLOW PARAH! 
  Logo Login 🔥 
- ![deskripsi gambar](https://github.com/FilterXyz/FILRAY2/issues/1#issue-1389658733) 
+ ![deskripsi gambar](![Screenshot_2022-09-28-22-07-46-718_com termux](https://user-images.githubusercontent.com/114341732/192839914-b4df8485-3e24-4cb4-9e64-420901888f83.jpg)) 
  Logo Dalem 🔥 
  ![deskripsi gambar](https://i.ibb.co/nzrNY3n/Screenshot-2022-07-19-15-07-30-575-com-termux.png) 
  # instaling 
