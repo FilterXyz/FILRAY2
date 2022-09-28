@@ -20,7 +20,9 @@ Logo Login 🔥
  
 Logo Dalem 🔥 
  ![Screenshot_2022-09-28-22-08-51-290_com termux](https://user-images.githubusercontent.com/114341732/192839958-0b035faf-3908-45bc-a69d-13f6887d19e8.jpg)
- # instaling 
+
+## INSTALING
+
  Download apk Termuxnya disini biar ngga eror🌟 
  [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)
  ```bash 
@@ -37,8 +39,9 @@ Logo Dalem 🔥
  $ cd FILRAY2 
  $ python FILRAY2.py 
  ``` 
- ## Cara Update 
- ```php 
+## CARA UPDATE
+
+```php 
  $ ls ( L kecil ) 
  $ cd FILRAY2
  $ ls ( L kecil ) 
