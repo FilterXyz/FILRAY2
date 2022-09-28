@@ -2,10 +2,12 @@
 Tetap Crack Walaupun Alot😛😎
 
 # Enjoy 🤤 
-  🔥 Budayakan Install Lewat Github Biar Ga Error' 🔥 
+
+Budayakan Install Lewat Github Biar Ga Error' 🔥 
  
 # Warning Kerass 
-  Harus Kasih Star Dulu Sebelum Pakai 🗿
+
+Harus Kasih Star Dulu Sebelum Pakai Awokawok 🗿
 
 # 100% Free🥰 
 
